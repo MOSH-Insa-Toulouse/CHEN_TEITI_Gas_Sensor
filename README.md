@@ -15,14 +15,22 @@ L’objectif du projet est de réaliser un schéma électrique intégrant un capteur d
 
 D’abord nous avons travaillé dans la partie de création des symboles pour LTC1050 et RN_Breakout2483. Les deux composants ont été réalisé pendant le cours TD. Ensuite nous avons dessiné le schéma électrique. Pour le schéma électrique, nous avons utilisé une résistance qui représente le capteur de gaz. Après avoir fini de faire le capteur de gaz, nous avons fait le montage d’adaptation d’impédance avec l’amplificateur LTC1050. Puis nous avons utilisé le symbole RN_Breakout2483 pour le module LoRa. Quand le schéma a été créé, nous l’avons connecté à l’arduino uno.
 
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: https://github.com/MOSH-Insa-Toulouse/CHEN_TEITI_Gas_Sensor/blob/master/schema_capteur.PNG "Schéma"
+[logo1]: https://github.com/MOSH-Insa-Toulouse/CHEN_TEITI_Gas_Sensor/blob/master/schema_capteur.PNG "Schéma"
+
+![alt text][logo2]
+
+[logo2]: https://github.com/MOSH-Insa-Toulouse/CHEN_TEITI_Gas_Sensor/blob/master/schema_lora.PNG "RN_Breakout"
 
 
 ### Layout
 
 Avant de réaliser le routage, nous avons défini les règles de conception de la carte suivant les paramètres suivants :
+
+![alt text][logo3]
+
+[logo3]: https://github.com/MOSH-Insa-Toulouse/CHEN_TEITI_Gas_Sensor/blob/master/design_rules.PNG "Design Rules"
 
 Ensuite, nous avons importé les composants à partir de la netlist créé précédemment depuis le schématique.
 
