@@ -1,4 +1,4 @@
-# CHEN_TEITI_Gas_Sensor# CHEN_TEITI_Gas_Sensor
+# CHEN_TEITI_Gas_Sensor
 
 ## Introduction
 
