@@ -34,9 +34,17 @@ Avant de réaliser le routage, nous avons défini les règles de conception de la c
 
 Ensuite, nous avons importé les composants à partir de la netlist créé précédemment depuis le schématique.
 
+![alt text][logo4]
+
+[logo4]: https://github.com/MOSH-Insa-Toulouse/CHEN_TEITI_Gas_Sensor/blob/master/pcb_one_face.PNG "PCB"
+
 Enfin, nous avons dessiné les pistes afin de connecter les composants selon le schématique.
 
 ### Visualisation 3D
+
+![alt text][logo5]
+
+[logo5]: https://github.com/MOSH-Insa-Toulouse/CHEN_TEITI_Gas_Sensor/blob/master/3D_one_face.PNG "3D"
 
 ## Conclusion
 
