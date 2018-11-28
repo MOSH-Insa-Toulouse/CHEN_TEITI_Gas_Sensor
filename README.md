@@ -15,6 +15,8 @@ L’objectif du projet est de réaliser un schéma électrique intégrant un capteur d
 
 D’abord nous avons travaillé dans la partie de création des symboles pour LTC1050 et RN_Breakout2483. Les deux composants ont été réalisé pendant le cours TD. Ensuite nous avons dessiné le schéma électrique. Pour le schéma électrique, nous avons utilisé une résistance qui représente le capteur de gaz. Après avoir fini de faire le capteur de gaz, nous avons fait le montage d’adaptation d’impédance avec l’amplificateur LTC1050. Puis nous avons utilisé le symbole RN_Breakout2483 pour le module LoRa. Quand le schéma a été créé, nous l’avons connecté à l’arduino uno.
 
+![alt text][logo]
+
 [logo]: https://github.com/MOSH-Insa-Toulouse/CHEN_TEITI_Gas_Sensor/blob/master/schema_capteur.PNG "Schéma"
 
 
